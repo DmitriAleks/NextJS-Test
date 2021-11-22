@@ -1,6 +1,6 @@
 
 
-export const Test = () => {
+export default function Test (){
     return (
         <div>
             Hello World
